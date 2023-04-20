@@ -1,0 +1,1 @@
+/tmp/.htaccess_phpinfo.jpg succesfully uploaded.

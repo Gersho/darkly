@@ -127,12 +127,46 @@ TODO check for shady shit
 
 
 
+SELECT id FROM image_instance WHERE name = 'bioboxes/velvet-then-quast'
+UNION ALL
+INSERT INTO image_instance (name, sha256, image_type_id)
+SELECT
+    'bioboxes/velvet-then-quast',
+    'digest_4',
+    (SELECT id FROM image_type WHERE name = 'short_read_preprocessing_reference_evaluation')
+WHERE NOT EXISTS (SELECT id FROM image_instance WHERE name = 'bioboxes/velvet-then-quast')
+RETURNING id
+
+
+
+WITH
+CTE
+AS
+(
+    INSERT INTO image_instance (name, sha256, image_type_id)
+    SELECT
+        'bioboxes/velvet-then-quast',
+        'digest_4',
+        (SELECT id FROM image_type WHERE name = 'short_read_preprocessing_reference_evaluation')
+    WHERE NOT EXISTS (SELECT id FROM image_instance WHERE name = 'bioboxes/velvet-then-quast')
+    RETURNING id
+)
+SELECT id FROM image_instance WHERE name = 'bioboxes/velvet-then-quast'
+UNION ALL
+SELECT id FROM CTE
+;
+
+
+
+
+
+
 UNION INSERT RETURNING
 ################################################################################
 9 UNION INSERT INTO Member_guestbook.guestbook (name, comment) VALUES ('kpz', 'yesyesyesyes') RETURNING name, comment--
 
 
-
+9 UNION WITH CTE AS ( INSERT INTO Member_guestbook.guestbook (name, comment) VALUES ('kpz', 'yesyesyesyes') RETURNING name, comment) UNION SELECT id_comment, name FROM Member_guestbook.guestbook--
 
 
 

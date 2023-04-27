@@ -1,0 +1,13 @@
+http://192.168.1.16/index.php?page=recover
+<input type="hidden" name="mail" value="webmaster@borntosec.com" maxlength="15">
+
+https://www.w3schools.com/html/html_form_input_types.asp
+Note: While the value is not displayed to the user in the page's content,
+it is visible (and can be edited) using any browser's developer tools or
+"View Source" functionality. Do not use hidden inputs as a form of security!
+
+Modifying an hidden input field allows to change the intent of the form,
+in this specific case, it would allow whatever informations is meant to be
+sent to webmaster@borntosec.com to be redirected to the email of your choice
+instead.
+

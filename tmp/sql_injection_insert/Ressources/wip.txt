@@ -1,0 +1,10 @@
+
+
+{
+	"txtName": "13",
+	"mtxtMessage": "13",
+	"btnSign": "Sign+Guestbook"
+}
+
+
+curl -F "btnSign=Sign Guestbook" -F "txtName=bob2" -F "mtxtMessage=pwetpwet"  http://192.168.1.16/?page=feedback

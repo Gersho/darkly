@@ -3,4 +3,3 @@
 
 http://192.168.1.16/?page=media&src=nsa
 (find a way to get other images from this ?) OR (overwrite nsa prism image)
-

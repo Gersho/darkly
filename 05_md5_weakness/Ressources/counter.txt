@@ -1,0 +1,1 @@
+use a more robust algo like sha256 and use salt

@@ -1,0 +1,21 @@
+from robots.txt we learn about the /.hidden path
+
+there's a bunch of folders within folders
+
+
+wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains website.org --no-parent     www.website.org/tutorials/html/
+
+
+wget --recursive --page-requisites --html-extension --convert-links 192.168.1.16/.hidden
+
+
+wget --recursive --page-requisites --convert-links 192.168.1.16/.hidden
+
+    --recursive: download the entire Web site.
+    --page-requisites: get all the elements that compose the page (images, CSS and so on).
+
+    --html-extension: save files with the .html extension.
+
+    --convert-links: convert links so that they work locally, off-line.
+
+wget -r -l5 --no-parent

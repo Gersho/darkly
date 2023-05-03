@@ -1,0 +1,13 @@
+http://192.168.1.16/?page=media&src=nsa
+
+
+changing src arg
+
+
+fails:
+window.alert("Hello world!")
+<script>window.alert("Hello world!")</script>
+www.google.com
+
+
+todo learn about data field in html

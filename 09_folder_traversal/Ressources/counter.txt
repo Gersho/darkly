@@ -1,0 +1,9 @@
+generic:
+sanitize input
+restrict right on user running the web server
+
+php:
+use basepath and realpath
+
+apache:
+Directive <Directory> in main config or can also use .htaccess

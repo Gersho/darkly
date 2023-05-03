@@ -1,0 +1,18 @@
+no idea, trying random stuff
+
+inspecting html we see the following comment
+
+<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+
+curl the file 
+curl http://192.168.1.16/js/html5shiv.js > html5shiv.js
+...unreadable
+beautified -> b.html5shiv.js
+...UNREADABLE
+
+lets try to see what it does
+
+IE8 user agent
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+curl -A "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)" http://192.168.1.16/ > ie8.html

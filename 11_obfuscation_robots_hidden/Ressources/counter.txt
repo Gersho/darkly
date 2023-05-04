@@ -1,0 +1,2 @@
+for starters, obfuscation is not a valid way to protect things
+if those files are not meant to be accessible to everyone, require identification

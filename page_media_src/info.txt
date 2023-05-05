@@ -8,6 +8,6 @@ fails:
 window.alert("Hello world!")
 <script>window.alert("Hello world!")</script>
 www.google.com
-
+javascript:alert('hello')
 
 todo learn about data field in html

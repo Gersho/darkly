@@ -1,0 +1,3 @@
+how is this even an exploit ? breadcrumbs were left on purpose to indicate specific behavior with a specific user agent and referer
+
+for security purpose, you should check the differences depending on user agent to ensure none of them has additional vulnerabilities

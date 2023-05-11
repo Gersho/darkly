@@ -1,1 +1,1 @@
-check file type in back rather than trust provided file type
+check file type in back rather than trust provided file type (never trust user provided data)

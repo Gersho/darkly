@@ -2,4 +2,4 @@ the easiest way would be to change the redirects for plains hrefs
 it would also reduce load on the server (negligible difference)
 
 if you wish to keep the redirect the way they are (for exemple for metrics)
-any other site arguments than those refined should raise an error
+any other site arguments than those defined should raise an error

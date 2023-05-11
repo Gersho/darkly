@@ -1,5 +1,0 @@
-/tmp/1f863731e4e20ce75a7ab7db1d9a04f6.jpg succesfully uploaded.
-
-
-http://192.168.1.16/?page=media&src=nsa
-(find a way to get other images from this ?) OR (overwrite nsa prism image)

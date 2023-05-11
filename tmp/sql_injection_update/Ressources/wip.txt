@@ -1,7 +1,0 @@
-http://192.168.1.16/index.php?page=survey
-
-see dump_08* in sql injecton member
-
-assumptions:
-UPDATE a row in Member_survey.vote_dbs
-a SELECT happens too to compute average

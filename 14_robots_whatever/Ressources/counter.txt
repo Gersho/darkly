@@ -1,2 +1,2 @@
-donc't store password in locations accessible without autentification
-use a more robust algo like sha256 and use salt
+Don't store password in locations accessible without autentification.
+Use a more robust algo like sha256 and add a random salt.

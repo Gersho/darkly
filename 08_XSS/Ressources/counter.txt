@@ -1,1 +1,7 @@
-sanitize input (plenty of libraries do that)
+You can sanitize the input to reject symbols like `<` and `>`.
+
+But the most important thing to do is to protect the injection when you write the text.
+If you use
+ - div.innerText, the <script> tag will be displayed.
+ - div.innerHtml, the <script> will appened to the code and will be executed.
+Most of the frameworks, like React.JS, Vue, Angular, ... will protect you against XSS injections.

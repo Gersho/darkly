@@ -1,9 +1,2 @@
-generic:
-sanitize input
-restrict right on user running the web server
-
-php:
-use basepath and realpath
-
-apache:
-Directive <Directory> in main config or can also use .htaccess
+In php, you can use realpath and basename to get only the filename, then add the path on the server side.
+The server should also restrict the access, using for example the unix users and permissions.

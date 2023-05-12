@@ -1,1 +1,2 @@
-validate input in the back mandatory, preferable in the front too
+The back should never trust the client, so another validation is required on the server side.
+That shouldn't stop you from validating in the front for a better user experience.

@@ -1,2 +1,4 @@
-there is absolutely NO REASON to have a hidden field in this context,
-the value is not dependant on user input so it shouldn't be in the front
+There is absolutely NO REASON to have a hidden field in this context,
+the value is not dependant on user input so it shouldn't be in the front.
+
+Never trust the client.

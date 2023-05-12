@@ -1,1 +1,3 @@
-do not trust anything provided by the user
+Don't store the user status in a cookie, store a cookie for the connexion then check on the server side the user status.
+A cookie can be acceded by the user so it can be changed.
+As always, never trust the client.

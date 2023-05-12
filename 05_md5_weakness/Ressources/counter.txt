@@ -1,1 +1,1 @@
-use a more robust algo like sha256 and use salt
+Use a more robust algo like sha256 and add a random salt.

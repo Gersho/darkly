@@ -1,8 +1,12 @@
+The data to search in a sql query should always be binded 
+For example:
+ - $pdo->prepare('SELECT * FROM employees WHERE name = :name')
+then bind :name to the name you want to search
+ - $stmt->execute([ 'name' => $name ]);
+
+Using string concatenation is dangerous, for example
+ - 'SELECT * FROM employees WHERE name = ' . $name
+if the name is
+ "aa OR 1 = 1", all the employees will be fetched.
 
 https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
-separate the logic from the arguments by binding typed parameters to the request
-
-
-sanitazing data for expected data
-in this specific case, you are expecting a member ID, an integer
-so anything else should raise an error
